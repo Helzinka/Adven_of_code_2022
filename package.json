@@ -5,11 +5,11 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"test": "nodemon main.js"
+		"start": "nodemon main.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Helzinka/Adven_of_code_2022.git"
+		"url": "git+https://github.com/Helzinka/Advent_of_code_2022.git"
 	},
 	"author": "",
 	"license": "ISC",
