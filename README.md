@@ -1,4 +1,7 @@
 # Advent of code 2022
 
-Day 1 -> done
-Day 2 -> done
+| day | part 1 | part 2 |
+|:---:|:------:|--------|
+|  1  |    ✅   |    ✅   |
+|  2  |    ✅   |    ✅   |
+
